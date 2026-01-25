@@ -19,6 +19,7 @@ Manage Vocal Bridge voice agents from Claude Code.
 **Features:**
 - View call logs and transcripts
 - Update agent prompts and greetings
+- Configure session limits (max call duration, history size)
 - Stream real-time debug events
 - Check call statistics
 - Authenticate with your Vocal Bridge account
