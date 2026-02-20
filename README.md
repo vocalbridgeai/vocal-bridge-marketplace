@@ -17,6 +17,7 @@ Add this marketplace to Claude Code:
 Manage Vocal Bridge voice agents from Claude Code.
 
 **Features:**
+- Create and deploy new voice agents (paid subscribers)
 - View call logs and transcripts
 - Update agent prompts and greetings
 - Configure session limits (max call duration, history size)
