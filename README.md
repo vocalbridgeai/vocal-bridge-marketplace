@@ -23,6 +23,7 @@ Manage Vocal Bridge voice agents from Claude Code.
 - Configure session limits (max call duration, history size)
 - Stream real-time debug events
 - Check call statistics
+- Evaluate call recordings with a multimodal LLM (Pilot only)
 - Authenticate with your Vocal Bridge account
 
 **Install:**
