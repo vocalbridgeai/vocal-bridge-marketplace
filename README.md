@@ -21,6 +21,9 @@ Manage Vocal Bridge voice agents from Claude Code.
 - View call logs and transcripts
 - Update agent prompts and greetings
 - Configure session limits (max call duration, history size)
+- Place outbound calls with **Vapi/Retell-style per-call dynamic variables** (`{{var}}` interpolation)
+- **Inject `client_actions` events mid-call** from your backend (outbound + inbound + web)
+- Deliver `agent_to_app` events to a **signed HTTPS webhook** for phone-only deployments
 - Stream real-time debug events
 - Check call statistics
 - Evaluate call recordings with a multimodal LLM (Pilot only)
